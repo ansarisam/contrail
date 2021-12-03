@@ -36,9 +36,13 @@ Drive link for Data and trained yolo models - https://drive.google.com/drive/u/5
 ![image](https://user-images.githubusercontent.com/44238057/144655148-0e6c5329-799d-4e0e-82dc-ef7622774c32.png)
 
 ISL scripts - Used to download images via IDV tool in automated fashion
+
 XmlToTxt.py - Convers the annotations to text files
-yolov3.ipynb - Yolov3 algorithm for training the data
+
+YoloContrail-TeamVision.ipynb - Yolov3 algorithm for training the data
+
 ObjectDetection.py - Object detection code using darknet - Generates bounding box json along with confidence for the detected contrail images
+
 objectdetectionBox.py - Drawing bounding boxes on the images using openCV
 
 
