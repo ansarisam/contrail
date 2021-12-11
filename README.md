@@ -49,5 +49,15 @@ ObjectDetection.py - Object detection code using darknet - Generates bounding bo
 
 objectdetectionBox.py - Drawing bounding boxes on the images using openCV
 
+Google drive path locations
+
+Annotated images - https://drive.google.com/folderview?id=1XXcCa_9N9stCWbxRmPBY8IQLvHPVDnvp
+
+Trained models - https://drive.google.com/folderview?id=1jzwKHr5e1kPz8-Jmfs7jMkTnAXI83EJk
+
+Input data - https://drive.google.com/folderview?id=1GIv7MpPf0bFvHUq9Eyhf9BkFO9CmTzJo
+
+Object detection - https://drive.google.com/folderview?id=1vgPeUUS1Y2NHuCywVlX53sOdRRuKdKkP
+
 
 
