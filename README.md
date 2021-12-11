@@ -10,10 +10,8 @@ Importance of the problem.
 Severals factors of aviation can lead to global warming but the effect of contrail on global warming is immediate when compared to other factors like carbon dioxide. By identying contrail and redirecting the flights can provide an immediate remediation. 
 
 IDV tutorail for image download( Data Acquisition: https://youtu.be/mFycQIa6UFU)
-![image](https://user-images.githubusercontent.com/44238057/145661174-f09ae84b-80e8-4ba3-b983-e65a299d9e6a.png)
 
 VoTT Data annotation tutorail - https://youtu.be/Z6tW82woZQU
-![image](https://user-images.githubusercontent.com/44238057/145661210-3cc63dfc-83f0-4823-b1eb-1821fd6c214b.png)
 
 Process diagram 
 
